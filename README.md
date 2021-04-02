@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  :heavy_check_mark: Play the dice
+  :heavy_check_mark: Send a card
 </p>
 
 <hr />
