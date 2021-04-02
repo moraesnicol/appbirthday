@@ -1,40 +1,55 @@
 
 
-<p align="center">
-<img align="" width="300" height="600" src="https://github.com/moraesnicol/appbirthday/blob/master/google_course1.png" title="img">
-</p>
+
          
-
-<br />
-<br />
-<h3 align="center">
-App do curso básico de Kotlin oferecido pelo google ; )
-         
- [Link](https://developer.android.com/courses/pathways/android-basics-kotlin-four)
- 
-</h3>
-<br />
-<br />
-
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+   <img src="https://github.com/moraesnicol/dice_roll/blob/master/kotlin-1-logo-png-transparent.png" alt="kotlin" width="300"/>
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/moraesnicol/">
+      <img alt="Gabriel Nicol" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
  
 </p>
-<br>
 
-## :rocket: Tecnologias
+<p align="center">
+  :heavy_check_mark: Play the dice
+</p>
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
+<hr />
 
-- [Kotlin](http://kotlinlang.org//)
 
-## 💻 Projeto
 
-Um cartão de aniversário
+
+
+
+# :coffee: About
+
+This app was developed based on [Google's Android Kotlin basics course](https://developer.android.com/courses/android-basics-kotlin/course).
+
+
+# 📌 Contents
+
+* [Screenshots](#camera-screenshot)
+* [Technologies](#rocket-technologies)
+* [License](#page_facing_up-license)
+
+# :camera: Screenshots
+<div align="center">
+   <img src="https://github.com/moraesnicol/appbirthday/blob/master/google_course1.png" width="300px">
+
+</div>
+
+# :rocket: Technologies
+This project was made using the follow technologies:
+
+* [Kotlin](https://kotlinlang.org/)
+
+
+
+
+# :page_facing_up: License
+
+This project is under the [MIT License](./LICENSE) |
+Made with 💖 by [Gabriel Nicol](https://www.linkedin.com/in/gabrielnicol/).
