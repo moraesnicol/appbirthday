@@ -37,7 +37,7 @@ This app was developed based on [Google's Android Kotlin basics course](https://
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/appbirthday/blob/master/happycard.png" height="600px" width="300px">
+   <img src="https://github.com/moraesnicol/appbirthday/blob/master/happycard.png" height="500px" width="300px">
 
 </div>
 
